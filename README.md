@@ -2,5 +2,5 @@
 parser mdb file to csv
 # use
 ./mdb.sh yourfile.mdb
-#others
+# others
 python 2.7
